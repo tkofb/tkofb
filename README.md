@@ -1,4 +1,4 @@
-# hi there, i'm benard kihiuria 👋
+# hi there, i'm benard 👋
 
 🎓 **student @ the university of maryland**  
 🖥️ **major:** computer science  
