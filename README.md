@@ -1,6 +1,6 @@
 # hi there, i'm benard kihiuria 👋
 
-🎓 **student @ university of maryland**  
+🎓 **student @ the university of maryland**  
 🖥️ **major:** computer science  
 💹 **minor:** computational finance
 
